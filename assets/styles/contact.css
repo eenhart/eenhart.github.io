@@ -1,0 +1,24 @@
+.contact-wrapper {
+    display: block;
+    height: fit-content;
+}
+
+.contact-form  > *{
+  float: left;
+}
+
+
+.contact-content {
+    width: max-content;
+    padding-right: 120px;
+    padding-bottom: 24px;
+}
+
+.contact-detail > * > a {
+    text-decoration: none;
+}
+
+.contact-detail > i {
+    padding-right: 16px;
+    padding-bottom: 12px;
+}

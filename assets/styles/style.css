@@ -1,0 +1,14 @@
+header.contact-pop {
+    position: fixed;
+    bottom: 24px;
+    right: 5%;
+    background-color: #8e44ad;
+    color: #ffffff;
+    padding: 15px;
+    z-index: 3;
+}
+
+.tel-pop > * {
+    color: #ffffff;
+    text-decoration: none;
+}
